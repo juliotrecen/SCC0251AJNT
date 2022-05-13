@@ -5,7 +5,7 @@ Classificação de Imagens de Raio-X
 
 
 Neste trabalho, temos por objetivo classificar imagens de acordo com a região do corpo humano que ela representa. 
-Para isso, são utilizados imagens disponíveis em uma competição chamada UNIFESP X-ray Body Part Classifier Competition aberta até Agosto de 2022 na plataforma Kaggle.
+Para isso, serão utilizadas imagens disponíveis em uma competição chamada UNIFESP X-ray Body Part Classifier Competition aberta até Agosto de 2022 na plataforma Kaggle.
 
 ## Conteúdos utilizados
 
