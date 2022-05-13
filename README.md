@@ -16,5 +16,8 @@ Para isso, serão utilizadas imagens disponíveis em uma competição chamada UN
 
 conhecimentos de Image Enhancement, Segmentation e Filtering serão utlizados para pré-processar as imagens e com isso aplicar algoritmos de Redes Neurais para a classificação das mesmas.
 
+# Exemplos de Imagem de Input
+
+
 
 
