@@ -1,3 +1,5 @@
 # SCC0251AJNT
 
-Opa
+Neste trabalho, temos por objetivo classificar imagens segundo qual região do corpor humano ela representa.
+
+
