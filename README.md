@@ -1,8 +1,10 @@
-# SCC0251AJNT
+# Título
+Classificação de Imagens de Raio-X
 
 # Objetivo
 
-Neste trabalho, temos por objetivo classificar imagens segundo qual região do corpo humano ela representa. 
+
+Neste trabalho, temos por objetivo classificar imagens de acordo com a região do corpo humano que ela representa. 
 
 ## Conteúdos utilizados
 
