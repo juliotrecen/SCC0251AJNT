@@ -4,7 +4,7 @@ Classificação de Imagens de Raio-X
 # Objetivo
 
 
-Neste trabalho, temos por objetivo classificar imagens de acordo com a região do corpo humano que ela representa. 
+Neste trabalho temos por objetivo classificar imagens de acordo com a região do corpo humano que ela representa. 
 Para isso, serão utilizadas imagens disponíveis em uma competição chamada UNIFESP X-ray Body Part Classifier Competition aberta até Agosto de 2022 na plataforma Kaggle.
 
 ## Conteúdos utilizados
