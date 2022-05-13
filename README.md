@@ -18,6 +18,6 @@ conhecimentos de Image Enhancement, Segmentation e Filtering serão utlizados pa
 
 # Exemplos de Imagem de Input
 
-
+![Pulmão](/Imagens/Pulmão.png)
 
 
