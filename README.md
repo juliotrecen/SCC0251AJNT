@@ -20,4 +20,6 @@ conhecimentos de Image Enhancement, Segmentation e Filtering serão utlizados pa
 
 ![Pulmão](/Imagens/Pulmão.png)
 
+![Diversos](/Imagens/Diversos.png)
+
 
