@@ -3,7 +3,6 @@ Classificação de Imagens de Raio-X
 
 # Objetivo
 
-
 Neste trabalho temos por objetivo classificar imagens de acordo com a região do corpo humano que ela representa. 
 Para isso, serão utilizadas imagens disponíveis em uma competição chamada UNIFESP X-ray Body Part Classifier Competition aberta até Agosto de 2022 na plataforma Kaggle.
 
@@ -14,9 +13,9 @@ https://www.kaggle.com/competitions/unifesp-x-ray-body-part-classifier
 * Image Enhancement;
 * Image Segmentation;
 * Image Filtering;
-* Redes Neurais.
+* Image Description.
 
-conhecimentos de Image Enhancement, Segmentation e Filtering serão utlizados para pré-processar as imagens e com isso aplicar algoritmos de Redes Neurais para a classificação das mesmas.
+conhecimentos de Image Enhancement, Segmentation e Filtering serão utlizados para pré-processar as imagens e com isso aplicar o algortimo de Bag of Features para a classificação das imagens de teste.
 
 # Exemplos de Imagem de Input
 
