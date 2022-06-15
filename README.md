@@ -17,7 +17,11 @@ Link da competição: https://www.kaggle.com/competitions/unifesp-x-ray-body-par
 
 conhecimentos de Image Enhancement, Segmentation e Filtering serão utlizados para pré-processar as imagens e com isso aplicar o algortimo de Bag of Features para a classificação das mesmas.
 
-# Exemplos de Imagem de Input
+# Imagens de Input
+
+As imagens utilizadas neste projeto são imagens de raio-x que compreendem 24 regiões do corpo humando, sendo elas:
+
+Abdomen, Ankle, Cervical Spine,Chest,Clavicles,Elbow,Feet,Finger,Forearm,Hand,Hip,Knee,Lower Leg,Lumbar Spine,Others,Pelvis,Shoulder,Sinus,Skull, Thigh,Thoracic Spine,Wrist,
 
 ![Pulmão](/Imagens/Pulmão.png)
 
