@@ -21,7 +21,9 @@ conhecimentos de Image Enhancement, Segmentation e Filtering serão utlizados pa
 
 As imagens utilizadas neste projeto são imagens de raio-x que compreendem 24 regiões do corpo humando, sendo elas:
 
-Abdomen, Ankle, Cervical Spine,Chest,Clavicles,Elbow,Feet,Finger,Forearm,Hand,Hip,Knee,Lower Leg,Lumbar Spine,Others,Pelvis,Shoulder,Sinus,Skull, Thigh,Thoracic Spine,Wrist,
+Abdômem, tornozelo, coluna cervical, peito, clavículas, cotovelo, pés, dedo, antebraço, mão, quadril, joelho, perna, lombar, outros, pelve, ombro, seio, crânio, coxa, coluna torácica e pulso.
+
+Alguns exemplos de imagens que aparecem no dataset:
 
 ![Pulmão](/Imagens/Pulmão.png)
 
