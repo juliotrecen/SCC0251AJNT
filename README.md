@@ -48,9 +48,11 @@ A ideia do trabalho é aplicar diversos filtros em uma mesma imagem de teste e v
 
 # Resultados preliminares
 
-Criamos três filtros para aplicar na imagem e tentar auxiliar na classificação de imagens de teste. Segue abaixo o resultado ao aplicar esses filtros e as imagens de treino mais próximas da de teste (imagem de uma mão)
+Criamos três filtros para aplicar na imagem e tentar auxiliar na classificação de imagens de teste. Segue abaixo a descrição dos filtros e o resultado ao aplicar os mesmos à uma imagem de teste (imagem de uma mão) e às imagens de treino. Note que para a visualização dos resultados voltamos para a escala original dos valores da intesidade de cinza nas imagens.
 
 ### Filtros
+
+Considerando uma imagem cinza, geramos os seguintes filtros: 
 
 ![Preliminar_Methods](/Imagens/Preliminar_Methods.png)
 
