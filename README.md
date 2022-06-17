@@ -66,6 +66,10 @@ Quando aplica-se o filtro binário há uma piora no resultado do algoritmo BoF. 
 
 ![Preliminar_Identity](/Imagens/Preliminar_Identity.jpeg)
 
+Aplicando o filtro "Identity" nas imagens antes de utilizar o BoF não gera diferenças relevantes no resultado se comparado ao método 0 (não fazer pré-processamento).
+
 ### Método 3 - Negative
 
 ![Preliminar_Negative](/Imagens/Preliminar_Negative.jpeg)
+
+Aplicar o filtro "Negative" nas imagens antes de utilizar o BoF gerou uma melhora se comparado à aplicar o BoF sem pré processamento nas imagens. Agora seis das oitos imagens ditas similares a imagem de teste são da mesma região do corpo humano
