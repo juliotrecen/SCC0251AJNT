@@ -50,6 +50,10 @@ A ideia do trabalho é aplicar diversos filtros em uma mesma imagem de teste e v
 
 Criamos três filtros para aplicar na imagem e tentar auxiliar na classificação de imagens de teste. Segue abaixo o resultado ao aplicar esses filtros e as imagens de treino mais próximas da de teste (imagem de uma mão)
 
+### Filtros
+
+![Preliminar_Methods](/Imagens/Preliminar_Methods.png)
+
 ### Método 0 - Sem filtro (original)
 
 ![Preliminar_Original](/Imagens/Preliminar_Original.jpeg)
