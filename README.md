@@ -3,7 +3,7 @@ Classificação de Imagens de Raio-X
 
 # Objetivo
 
-Neste trabalho temos por objetivo comparar como diferentes formas de pré-processamento de imagens pode ajudar na classificação de imagens de acordo com a região do corpo humano que ela representa. Para o pré-processamento das imagens serão utilizados conhecimentos de Image Enhancement, Segmentation e Filtering, já para a classificação será  utilizado o algoritmo de Bag of Features.
+Neste trabalho temos por objetivo comparar como diferentes formas de pré-processamento de imagens pode ajudar na classificação de imagens de acordo com a região do corpo humano que ela representa. Para o pré-processamento das imagens serão utilizados conhecimentos de Image Enhancement, Segmentation e Filtering, já para a classificação será  utilizado o algoritmo de Bag of Features (BoF).
 As imagens utilizadas neste projetos serão as disponíveis em uma competição chamada UNIFESP X-ray Body Part Classifier Competition que está aberta até Agosto de 2022 na plataforma Kaggle.
 
 Link da competição: https://www.kaggle.com/competitions/unifesp-x-ray-body-part-classifier
@@ -15,7 +15,7 @@ Link da competição: https://www.kaggle.com/competitions/unifesp-x-ray-body-par
 * Image Filtering;
 * Image Description.
 
-conhecimentos de Image Enhancement, Segmentation e Filtering serão utlizados para pré-processar as imagens e com isso aplicar o algortimo de Bag of Features para a classificação das mesmas.
+conhecimentos de Image Enhancement, Segmentation e Filtering serão utlizados para pré-processar as imagens e com isso aplicar o algortimo Bag of Features para a classificação das mesmas.
 
 # Imagens de Input
 
@@ -54,4 +54,10 @@ Criamos três filtros para aplicar na imagem e tentar auxiliar na classificaçã
 
 ![Preliminar_Original](/Imagens/Preliminar_Original.jpeg)
 
-Quando não aplica-se filtro, apenas o algoritmo Bag of Features sem pré-processamento, observa-se um resultado satisfatório, já que cinco de oito fotos foram de mãos mesmo elas não estando com o mesmo posicionamento na foto e as outras imagens foram de partes próximas (dedo da mão, pulso) ou de estrutura similar (pé).
+Quando não aplica-se filtro, apenas o algoritmo BoF sem pré-processamento, observa-se um resultado satisfatório, já que cinco de oito fotos foram de mãos mesmo elas não estando com o mesmo posicionamento na foto e as outras imagens foram de partes próximas (dedo da mão, pulso) ou de estrutura similar (pé).
+
+### Método 1 - Binary
+
+![Preliminar_Binary](/Imagens/Preliminar_Binary.jpeg)
+
+Quando aplica-se o filtro binário há uma piora no resultado do algoritmo BoF.
