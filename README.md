@@ -60,4 +60,4 @@ Quando não aplica-se filtro, apenas o algoritmo BoF sem pré-processamento, obs
 
 ![Preliminar_Binary](/Imagens/Preliminar_Binary.jpeg)
 
-Quando aplica-se o filtro binário há uma piora no resultado do algoritmo BoF. Apenas 1 imagem de treino é de uma mão e várias imagens ditas "próximas" da imagem de teste são de estruturas do corpo humano muito diferente (peito, braço e lombar).
+Quando aplica-se o filtro binário há uma piora no resultado do algoritmo BoF. Apenas 1 imagem de treino é de uma mão e várias imagens ditas "próximas" da imagem de teste são de estruturas do corpo humano muito diferente (pulmão, braço e lombar).
