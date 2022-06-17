@@ -54,4 +54,4 @@ Criamos três filtros para aplicar na imagem e tentar auxiliar na classificaçã
 
 ![Preliminar_Original](/Imagens/Preliminar_Original.jpeg)
 
-Quando não aplica-se filtro, apenas o algoritmo Bag of Features sem pré-processamento, observa-se um resultado satisfatório, já que cinco de oito fotos foram de mãos, as outras foram de partes próximas (dedo da mão, pulso) ou de estrutura similar (pé).
+Quando não aplica-se filtro, apenas o algoritmo Bag of Features sem pré-processamento, observa-se um resultado satisfatório, já que cinco de oito fotos foram de mãos mesmo elas não estando com o mesmo posicionamento na foto e as outras imagens foram de partes próximas (dedo da mão, pulso) ou de estrutura similar (pé).
