@@ -73,3 +73,8 @@ Aplicando o filtro "Identity" nas imagens antes de utilizar o BoF não gera dife
 ![Preliminar_Negative](/Imagens/Preliminar_Negative.jpeg)
 
 Aplicar o filtro "Negative" nas imagens antes de utilizar o BoF gerou uma melhora se comparado à aplicar o BoF sem pré processamento nas imagens. Agora seis das oitos imagens ditas similares a imagem de teste são da mesma região do corpo humano, sendo que as outras duas são do antebraço e pé, as quais são regiões próximas e similares à mão, respectivamente.
+
+
+# Direções para o relatório final
+
+Desejamos desenvolver duas atividades para o relatório final. Primeiro, com base nas imagens ditas similares pelo algoritmo BoF, classificar a imagem de teste. Segundo, testar outros métodos de pré-processamento das imagens e verificar os resultados do BoF e posterior classificação. Entre as metodologias de pré-processamento que temos em mente, algumas envolvem segmentação e morfologia de imagens.
