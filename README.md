@@ -72,4 +72,4 @@ Aplicando o filtro "Identity" nas imagens antes de utilizar o BoF não gera dife
 
 ![Preliminar_Negative](/Imagens/Preliminar_Negative.jpeg)
 
-Aplicar o filtro "Negative" nas imagens antes de utilizar o BoF gerou uma melhora se comparado à aplicar o BoF sem pré processamento nas imagens. Agora seis das oitos imagens ditas similares a imagem de teste são da mesma região do corpo humano
+Aplicar o filtro "Negative" nas imagens antes de utilizar o BoF gerou uma melhora se comparado à aplicar o BoF sem pré processamento nas imagens. Agora seis das oitos imagens ditas similares a imagem de teste são da mesma região do corpo humano, sendo que as outras duas são do antebraço e pé, as quais são regiões próximas e similares à mão, respectivamente.
