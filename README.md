@@ -52,6 +52,6 @@ Criamos três filtros para aplicar na imagem e tentar auxiliar na classificaçã
 
 ### Método 0 - Sem filtro (original)
 
-![Preliminar_Original](/Imagens/Preliminar_Original.png)
+![Preliminar_Original](/Imagens/Preliminar_Original.jpeg)
 
 Quando não aplica-se filtro, apenas o algoritmo Bag of Features sem pré-processamento, observa-se um resultado satisfatório.
