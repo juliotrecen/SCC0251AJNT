@@ -8,7 +8,7 @@ As imagens utilizadas neste projetos serão as disponíveis em uma competição 
 
 Link da competição: https://www.kaggle.com/competitions/unifesp-x-ray-body-part-classifier
 
-Link do vídeo da apresentação: https://drive.google.com/file/d/1mBVDE5FNtLY5trw0y0qJldl_C1SHxAZ0/view?usp=sharing
+Link do vídeo da apresentação: https://youtu.be/FjoHCanrWrE
 
 ## Conteúdos utilizados
 
